@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://anthonybrown.github.io/monsters-rolodex",
+<<<<<<< HEAD
 
+=======
+>>>>>>> f16f76fc9f318c5d978ee7fa0de69507e827629c
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
